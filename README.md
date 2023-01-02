@@ -1,2 +1,2 @@
 # pieclye
-Command line interface with many many features
+Command line interface with many, many features

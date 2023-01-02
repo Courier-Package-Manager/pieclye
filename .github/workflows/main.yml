@@ -14,7 +14,7 @@ jobs:
       - name: Install Python Version
         uses: actions/setup-python@v3
         with:
-          python-version: 3.9.2 # Install the python version needed
+          python-version: python-3.9.2-linux-18.04-x64.tar.gz
 
       - name: Install dependencies
         run: python -m pip install --upgrade pip requests
